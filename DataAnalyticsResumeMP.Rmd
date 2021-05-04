@@ -1,0 +1,139 @@
+---
+title: "Mark Panetta"
+author: Mark Panetta
+date: "`r Sys.Date()`"
+output:
+  pagedown::html_resume:
+    # Thanks to Eric R. Scott for this tip! 
+    self_contained: false
+---
+
+Aside
+================================================================================
+
+Contact Info {#contact}
+--------------------------------------------------------------------------------
+
+- <i class="fa fa-envelope"></i>mark.panetta@tufts.edu
+- <i class="fa fa-github"></i> [github.com/mspanetta/](https://github.com/mspanetta/)
+- <i class="fa fa-phone"></i> +1 781-257-3451
+
+
+Skills {#skills}
+--------------------------------------------------------------------------------
+
+- Proficient in languages such as Python, SystemVerilog, C++, and MATLAB
+
+- Experienced in signal processing, artifical intelligence and CAD
+
+- Performed market analysis on various companies and projects to find trends
+
+
+
+Disclaimer {#disclaimer}
+--------------------------------------------------------------------------------
+
+<!--This resume was made with the R package [**pagedown**](https://github.com/rstudio/pagedown).-->
+
+Last updated on `r Sys.Date()`.
+
+
+
+Main
+================================================================================
+
+Mark Panetta {#title}
+--------------------------------------------------------------------------------
+
+### Intel Validation Engineer and MS Candidate in Innovation and Management 
+
+
+Education {data-icon=graduation-cap data-concise=true}
+--------------------------------------------------------------------------------
+
+### Tufts University
+
+MS in Electrical Engineering
+
+MS Candidate in Innovation and Management
+
+Medford, MA
+
+2018--Current
+
+
+### Worcester Polytechnic Institute
+
+BS in Electrical and Computer Engineering
+
+Worcester, MA
+
+2015--2018
+
+
+
+Professional Experience {data-icon=flask}
+--------------------------------------------------------------------------------
+
+### Product Engineer
+
+Newell Brands
+
+Deerfield, MA
+
+2018--2020
+
+- Tested various fragrance products to confirm product quality and standards
+- Delievered projects that dealt with 100+ SKUs every season, on-quality, on-cost, and on-time
+
+
+### Validation Engineer
+
+Intel
+
+Hudson, MA
+
+2019--Present
+
+- Validate server and workstation products in a team 
+- Becoming proficent in SystemVerilog, Python and UVM 
+
+### 
+
+Veoneer
+
+Lowell, MA
+
+2018
+
+- Design a system to capture super-flat panoramic images and laser guidance
+- Became proficent in C++ and Solidworkds
+
+Project Experience {data-icon=chalkboard-teacher}
+--------------------------------------------------------------------------------
+
+### DATA-200 Foundations of Data Analyics 
+
+Tufts University
+
+Medford, MA
+
+2020 -- 2021
+
+<!--::: concise-->
+- Released a project that explored how people with disabilities are impacted in the job market
+- Performed analysis on the data sets to find trends and draw conclusions that would benefit the interabled
+<!--:::-->
+
+### Sprint Project
+
+Tufts University
+
+Medford, MA
+
+2020 -- 2021
+
+<!--::: concise-->
+- Researched the pain points for people with disabilities, namely children
+- Created models and prototypes for asssistive devices for children
+<!--:::-->
